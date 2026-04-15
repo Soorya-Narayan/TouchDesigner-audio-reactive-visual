@@ -3,7 +3,6 @@ Input an audio file and a bunch of cubes responds based on highs and lows of it.
 There is a bunch of geometry instancing and transformations.
 
 ## Demo
-## 🎬 Demo
 
 ![Preview](preview.gif)
 
