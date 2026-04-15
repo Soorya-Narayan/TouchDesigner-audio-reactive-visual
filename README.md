@@ -4,11 +4,6 @@ There is a bunch of geometry instancing and transformations.
 
 ## Demo
 
-![Preview](preview.gif)
-
-Full video:
-https://github.com/Soorya-Narayan/TouchDesigner-audio-reactive-visual/raw/main/Audioreact.mp4
-
 ## Architecture
 - Audio Device In CHOP → captures live/system audio
 - Audio Spectrum / Analyze CHOP → extracts frequency data
