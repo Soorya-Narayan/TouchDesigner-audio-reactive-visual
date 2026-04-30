@@ -2,8 +2,11 @@
 Input an audio file and a bunch of cubes responds based on highs and lows of it. 
 There is a bunch of geometry instancing and transformations.
 
-## Demo
-![Image](https://github.com/user-attachments/assets/bcd97d89-902e-4254-8ca1-67e55dcaea38)
+<h2 align="center">Demo</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcd97d89-902e-4254-8ca1-67e55dcaea38" width="70%" />
+</p>
 
 ## Architecture
 - Audio Device In CHOP → captures live/system audio
